@@ -10,7 +10,7 @@ To create this application i used the SIFT algorithm to make the feature matchin
 
 ## Installation
 
-You only need to install the [Visual Studio IDE](www.visualstudio.com) and open the solution.
+You only need to install the [Visual Studio 2013](www.visualstudio.com) and open the solution.
 
 ## Contact
 eduardohmrodrigues@gmail.com or ehmr@cin.ufpe.br
