@@ -1,0 +1,11 @@
+Memory Usage
+43687936 bytes at time: 1 sec
+43708416 bytes at time: 2 sec
+43761664 bytes at time: 10 sec
+43778048 bytes at time: 23 sec
+43790336 bytes at time: 28 sec
+43864064 bytes at time: 30 sec
+
+Median (bytes) = 43120347.428571
+Median (MB) = 42109.714286
+Running Time = 31 seconds

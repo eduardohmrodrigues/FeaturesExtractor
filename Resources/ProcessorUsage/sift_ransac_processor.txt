@@ -1,0 +1,13 @@
+Processor Usage
+11.4862% at time 1 sec
+10.5288% at time 2 sec
+10.9887% at time 3 sec
+10.2764% at time 4 sec
+10.6024% at time 5 sec
+16.6883% at time 6 sec
+10.4604% at time 7 sec
+10.1161% at time 8 sec
+10.5785% at time 9 sec
+
+Median = 259.661%
+Running Time = 9 seconds
